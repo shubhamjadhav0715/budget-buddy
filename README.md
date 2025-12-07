@@ -223,7 +223,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[Shubham Jadhav]**
 - GitHub: [@shubhamjadhav0715](https://github.com/shubhamjadhav0715)
 - Project: [Budget Buddy](https://github.com/shubhamjadhav0715/budget-buddy)
 
